@@ -1,0 +1,1 @@
+execute as @a at @s if block ~ ~ ~ water run execute as @a[nbt={FallFlying:1b}] run function cwf:swap1

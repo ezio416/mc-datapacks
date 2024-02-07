@@ -1,0 +1,1 @@
+tellraw @a [{"text":"[Datapack]"},{"text":" SmeltRawBlocks enabled","color":"green"}]
