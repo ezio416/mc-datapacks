@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 8,
+        "pack_format": 15,
         "description": "Lets you smelt raw ore blocks! This saves 11% of your time smelting copper, iron, and gold."
     }
 }
